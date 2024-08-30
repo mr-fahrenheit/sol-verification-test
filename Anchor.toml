@@ -11,7 +11,7 @@ hello_world = "22Hv3MiyfnMJkNoVKNXxueYtLhzJwh9EsuQmLzrG4NHP"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "https://api.mainnet-beta.solana.com/"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
